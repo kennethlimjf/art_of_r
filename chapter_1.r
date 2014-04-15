@@ -1,3 +1,7 @@
+# ------------------------
+# Chapter 1: Introduction
+# ------------------------
+
 # Create a vector. 'c' here stands for concatenate.
 x <- c(1,2,4)
 x
