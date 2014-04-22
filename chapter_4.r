@@ -24,4 +24,4 @@ lapply(list(1:3,25:29), median)			# list apply
 sapply(list(1:3,25:29), median)			# simplified apply
 
 # Recursive lists
-x <- c(list(a=1,b=2,c=list(d=5,e=9)))
+x <- c( list(a=1,b=2,c=list(d=5,e=9)) )
